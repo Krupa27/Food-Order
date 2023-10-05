@@ -43,6 +43,5 @@ try{
 }catch(Exception e){
 	System.out.println(e);
 	response.sendRedirect("home.jsp?msg=invalid");
-	/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/
 }
 %>
