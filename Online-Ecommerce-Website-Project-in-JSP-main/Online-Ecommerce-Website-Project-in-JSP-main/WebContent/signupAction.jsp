@@ -34,4 +34,4 @@ catch(Exception e){
 	response.sendRedirect("signup.jsp?msg=invalid");
 	
 }
-/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/%>
+%>
