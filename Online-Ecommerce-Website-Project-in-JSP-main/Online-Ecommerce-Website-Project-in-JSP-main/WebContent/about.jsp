@@ -36,4 +36,3 @@ Contact us at :- contactus ksmalloju@gmail.com
 </body>
 </html>
 <%
-/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/%>
