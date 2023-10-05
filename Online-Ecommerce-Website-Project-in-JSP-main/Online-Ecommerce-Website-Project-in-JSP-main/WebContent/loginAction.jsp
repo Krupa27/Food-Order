@@ -36,7 +36,6 @@ try{
 	response.sendRedirect("login.jsp?msg=invalid");
 	}
 
-/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/
 
 }
 %>
