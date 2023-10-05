@@ -46,7 +46,8 @@ try{
 }
 }catch(Exception e){
 	System.out.println(e);
-}/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/%>
+}
+%>
         </tbody>
       </table>
       	<%if(z==0){ %>
@@ -56,7 +57,7 @@ try{
       <br>
       <br>
       <div class="footer">
-          <p>©2020 Projects by AD Singh · http://www.adsingh.net/</p>
+          <p>Â©2020 Projects by AD Singh Â· http://www.adsingh.net/</p>
       </div>
 
 </body>
