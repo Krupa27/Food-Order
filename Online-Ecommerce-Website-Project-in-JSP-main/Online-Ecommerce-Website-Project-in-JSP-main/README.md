@@ -1,3 +1,3 @@
-# Online Ecommerce Website Project in Java ( JSP )
+# Online Food Delivery Project in Java ( JSP )
 
 
