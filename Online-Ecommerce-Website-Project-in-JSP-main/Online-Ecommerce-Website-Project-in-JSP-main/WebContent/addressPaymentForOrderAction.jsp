@@ -38,6 +38,5 @@ try{
 	
 }catch(Exception e){
 	System.out.println(e);
-	/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/
 }
 %>
