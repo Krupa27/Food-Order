@@ -21,7 +21,8 @@ if("valid".equals(msg)){
 if("invalid".equals(msg)){
 %>
 <h3 style="text-align:center; ">Some thing Went Wrong! Try Again!</h3>
-<%}/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/ %>
+<%}
+%>
 <form action="messsageUsAction.jsp" method="post">
 <input class="input-style" name="subject" type="text" placeholder="Subject" required>
 <hr>
