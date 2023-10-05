@@ -52,7 +52,6 @@
 	   if("invalid".equals(msg)){
 	  %>
 	  <h1>Some thing Went Wrong! Try Again !</h1>
-	  <%/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/} %>
 		    
     
   </div>
