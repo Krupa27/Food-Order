@@ -18,4 +18,4 @@ try{
 	System.out.println(e);
 	response.sendRedirect("messageUs.jsp?msg=invalid");
 }
-/*created and designed by AD Singh -- downloaded from http://projects.adsingh.net/*/%>
+%>
